@@ -1,4 +1,7 @@
 # WorkermanYii2
+
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
+
 对于熟悉使用workerman和yii2 ActiveRecod的人来说，在workerman中使用ActiveRecord是一个问题
 这个项目主要解决了在workerman中使用yii2中的ActiveRecord的问题
 
