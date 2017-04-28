@@ -1,6 +1,9 @@
 {
     "name": "ruanjiajia/workerman-yii2",
+    "type"  : "project",
     "keywords": ["workerman", "yii2","activerecord","mysql"],
+    "license" : "MIT",
+    "description": "use some yii2 functions in workerman! example activerecord!",
     "authors": [
         {
             "name": "victorruan",
