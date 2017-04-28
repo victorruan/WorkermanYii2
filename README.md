@@ -26,5 +26,6 @@ name is test and age is 5
 
 ```
 
-workerman 主页 http://www.workerman.net/
-yii2 主页 http://www.yiiframework.com/
+workerman 主页 http://www.workerman.net/    
+yii2 主页 http://www.yiiframework.com/    
+yii2 ActiveRecord http://www.yiichina.com/doc/guide/2.0/db-active-record
