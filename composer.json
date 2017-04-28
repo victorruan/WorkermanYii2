@@ -1,5 +1,6 @@
 {
     "name": "ruanjiajia/workerman-yii2",
+    "keywords": ["workerman", "yii2","activerecord","mysql"],
     "authors": [
         {
             "name": "victorruan",
