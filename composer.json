@@ -1,0 +1,13 @@
+{
+    "name": "ruanjiajia/workerman-yii2",
+    "authors": [
+        {
+            "name": "victorruan",
+            "email": "250069802@qq.com"
+        }
+    ],
+    "require": {
+        "workerman/workerman": "^3.4",
+        "yiisoft/yii2": "2.0.11.2"
+    }
+}
